@@ -1,2 +1,2 @@
-# programacao_e_sistemas_computacionai_ii
+# Programação e Sistemas Sistemas Computacionais II
 Repositório da disciplina de Programação e Sistemas para Internet II
